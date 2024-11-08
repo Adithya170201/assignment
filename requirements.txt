@@ -1,0 +1,9 @@
+Flask
+PyPDF2
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+
