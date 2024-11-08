@@ -1,22 +1,9 @@
-# Flask framework for web app
-Flask==2.2.5
-
-# LangChain core modules
-langchain-core==0.0.25  # Adjust version as per compatibility with your code
-langchain-community==0.0.5
-langchain-huggingface==0.0.5  # For HuggingFace embeddings support in LangChain
-
-# Cohere client library
-cohere==2.6.1
-
-# Sentence-transformers for HuggingFace embeddings
-sentence-transformers==2.2.2
-
-# PyPDF2 for reading PDF files
-PyPDF2==3.0.1
-
-# pydantic for data validation
-pydantic==1.10.2
-
-# Additional utility for backward compatibility
-six==1.16.0  # Required as per initial error traceback
+Flask
+PyPDF2
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+six
